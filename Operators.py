@@ -163,3 +163,19 @@ print(not False and (34 < 50) or not (32 >= 21 and not ("Sahil" == "Sahil")) and
 """
 
 
+"""
+7] Identity Operators : 
+       is:-True if both name point towards the same object
+       is not:-True if they point toward different object
+
+
+# a = [1,2,3]
+# b = a
+# c = [1,2,3]
+
+# print(a == b)
+# print(a is b)
+# print(a == c)
+# print(a is c)
+"""
+
